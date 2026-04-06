@@ -233,8 +233,6 @@ Based on the World Bank Data, it was concluded that Latin America & Caribbean is
 
 Furthermore, there were only 9 countries with over 75% of forestation, whereas, 85 countries represented less than 25% of forestation rate over land area. This figure was concerning, particularly in areas such as Sub-Saharan Africa and Middle East & North Africa.
 
-# Appendices: SQL Queries Used
-
 
 
 
